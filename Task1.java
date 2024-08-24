@@ -7,7 +7,8 @@ public class Random_Number extends Thread{
 
 void options(){
     System.out.println("Choose the option:");
-    System.out.println();    
+    System.out.println();
+    System.out.println();
     System.out.println("      1] TO PLAY NEXT LEVEL");
     System.out.println("      2] TO PLAY SAME LEVEL");
     System.out.println("      3] MAIN MENU");
